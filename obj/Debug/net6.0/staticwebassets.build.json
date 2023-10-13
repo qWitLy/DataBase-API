@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "8FvIbDb3e8PoaHALaUNN1WDB2isLpZGxpZSiP1Dyopk=",
+  "Source": "WebApplication9",
+  "BasePath": "_content/WebApplication9",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication9\\wwwroot",
+      "Source": "WebApplication9",
+      "ContentRoot": "C:\\Users\\solda\\source\\repos\\WebApplication9\\wwwroot\\",
+      "BasePath": "_content/WebApplication9",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\solda\\source\\repos\\WebApplication9\\wwwroot\\BD.js",
+      "SourceId": "WebApplication9",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\solda\\source\\repos\\WebApplication9\\wwwroot\\",
+      "BasePath": "_content/WebApplication9",
+      "RelativePath": "BD.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\BD.js"
+    },
+    {
+      "Identity": "C:\\Users\\solda\\source\\repos\\WebApplication9\\wwwroot\\index.html",
+      "SourceId": "WebApplication9",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\solda\\source\\repos\\WebApplication9\\wwwroot\\",
+      "BasePath": "_content/WebApplication9",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\solda\\source\\repos\\WebApplication9\\wwwroot\\style.css",
+      "SourceId": "WebApplication9",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\solda\\source\\repos\\WebApplication9\\wwwroot\\",
+      "BasePath": "_content/WebApplication9",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

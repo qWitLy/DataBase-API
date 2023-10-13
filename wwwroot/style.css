@@ -1,0 +1,60 @@
+.root{
+    --padingup:2em;
+}
+
+.pad{
+    --bs-border-width:2px;
+    --bs-border-color:rgb(222, 226, 230);
+    margin-top: 1em;
+    position: relative;
+}
+.inputList{
+    border-color: rgb(222, 226, 230);
+    border-style:double;
+}
+.inputCard{
+
+    margin-left: 2.8em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 37.5%;
+    margin-right: 37%;
+}
+.spinnerWrapper{
+    transition:all 1s;    
+    margin-top: 5em;
+}
+.List{
+    margin-top: 3em;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-left: 34%;
+    margin-right: 31%;
+}
+input{
+    width: 20em;
+}
+.tdClass{
+    width: 35em;
+
+}
+#resetBtn{
+    margin-left: 7.4em;
+    margin-top:var(--padingup,2em);
+}
+#saveBtn{
+    margin-top: var(--padingup,2em);
+}
+.tdButton{
+    margin-left: 8em;
+}
+.table{
+
+    border-left: 3px;
+}
+tr{
+    border-right-width: 3px;
+    border-left-width: 3px;
+    border-left-color:rgb(222, 226, 230);
+}
+
